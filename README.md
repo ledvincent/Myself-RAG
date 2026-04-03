@@ -49,7 +49,7 @@ cp .env.example .env
 python start.py
 ```
 
-Go to `http://localhost:8000`, upload your documents, start asking.
+Run the *start.bat* file to host a local website, upload your documents, start asking.
 
 ## Docker
 
