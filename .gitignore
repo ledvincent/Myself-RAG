@@ -1,0 +1,18 @@
+# Environment
+.env
+
+# Personal data
+data/
+
+# ChromaDB vector store (contains personal document embeddings)
+chroma_data/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Conda / venv
+venv/
+*.egg-info/
