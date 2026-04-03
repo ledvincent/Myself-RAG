@@ -51,12 +51,6 @@ python start.py
 
 Run the *start.bat* file to host a local website, upload your documents, start asking.
 
-## Docker
-
-```bash
-docker build -t personal-rag .
-docker run -p 8000:8000 --env-file .env -v ./chroma_data:/app/chroma_data personal-rag
-```
 
 ## A few things to know
 
